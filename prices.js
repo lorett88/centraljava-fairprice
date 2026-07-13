@@ -1,7 +1,7 @@
 /* ============================================================
    PRICE DATA for the Central Java Fair Price Guide
-   GENERATED from prices-data.xlsx by convert.py — do not edit
-   by hand; edit the spreadsheet and run convert.py again.
+   GENERATED from Google Sheets — do not edit by hand.
+   Last generated: 2026-07-13 00:52 UTC
    ============================================================ */
 const SECTIONS = [
   {
@@ -15,7 +15,7 @@ const SECTIONS = [
         "local": "nasi goreng · mie goreng",
         "unit": "street stall",
         "min": 12000,
-        "max": 20000,
+        "max": 30000,
         "tourist": 40000,
         "tip": "The national comfort food. If it's over Rp 25k at a street cart, walk 50 metres and pay half."
       },
